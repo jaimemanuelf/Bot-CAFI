@@ -1,0 +1,112 @@
+# MEMORY.md
+
+Registro de patrones aprendidos sobre los hábitos de Manuel:
+- Gastaste 80.000 en Servicios
+- Usaste Uber como Transporte
+- Tu ingreso principal es de 120.000
+- Gastaste 80.000 en Servicios
+- Usaste Uber como Transporte
+- Ingresaste 120.000
+- Gastaste 80.000 en Servicios
+- Usaste Uber como Transporte
+- Ingresaste 120.000
+- Gastaste 25.000 en Alimentación
+- Gastaste 80.000 en Servicios
+- Usaste Uber como Transporte
+- Ingresaste 120.000
+- Gastaste 80.000 en Servicios
+- Usaste Uber como Transporte
+- Ingresaste 120.000
+- Gastaste 80.000 en Servicios
+- Usaste Uber como Transporte
+- Gastaste 25.000 en Alimentación
+- Gastaste mucho en Servicios
+- Usaste Uber como Transporte
+- Ingresaste 120.000
+- Gastaste 80.000 en Servicios
+- Usaste Uber como Transporte
+- Ingresaste 120.000
+- Gastaste 65.000 en Alimentación
+- Usaste Uber como Transporte
+- Gastaste 80.000 en Servicios
+- Gastaste mucho en Servicios
+- Usaste Uber como Transporte
+- Ingresaste 120.000
+- Gastaste en Alimentación
+- Gastaste 80.000 en Servicios
+- Usaste Uber como Transporte
+- Gastaste 25.000 en Alimentación
+- Gastaste 80.000 en Servicios
+- Usaste Uber como Transporte
+- Ingresaste 120.000
+- Gastaste 25.000 en Alimentación
+- Gastaste 80.000 en Servicios
+- Usaste Uber como Transporte
+- Ingresaste 120.000
+- Gastaste 25.000 en Alimentación
+- Gastaste mucho en Alimentación
+- Usaste Uber como Transporte
+- Gastaste en Servicios
+- Gastaste mucho en Alimentación
+- Usaste Uber como Transporte
+- Gastaste en Servicios
+- Gastaste 50.000 en Alimentación
+- Usaste Uber como Transporte
+- Gastaste 80.000 en Servicios
+- Gastaste mucho en Servicios
+- Usaste Uber como Transporte
+- Gastaste en Alimentación
+- Gastaste mucho en Servicios
+- Usaste Uber como Transporte
+- Gastaste en Alimentación
+- Gastaste mucho en Servicios
+- Usaste Uber como Transporte
+- Gastaste en Alimentación
+- Gastaste mucho en Servicios
+- Usaste Uber como Transporte
+- Gastaste en Alimentación
+- Gastaste mucho en Servicios
+- Usaste Uber como Transporte
+- Gastaste en Alimentación
+- Ingresaste 120.000
+- Gastaste mucho en Servicios
+- Usaste Uber como Transporte
+- Gastaste en Alimentación
+- Gastaste mucho en Transporte
+- Usaste Uber como Transporte
+- Gastaste en Servicios
+- Gastaste en Alimentación
+- Gastaste mucho en Transporte
+- Usaste Uber como Transporte
+- Gastaste en Servicios
+- Gastaste en Alimentación
+- Gastaste mucho en Ropa
+- Usaste Uber como Transporte
+- Gastaste en Alimentación
+- Gastaste mucho en Alimentación
+- Usaste Uber como Transporte
+- Gastaste en Servicios
+- Tienes ingresos altos
+- Gastaste mucho en Ropa
+- Usaste Uber como Transporte
+- Tienes ingresos altos y variables
+- Gastaste mucho en Alimentación
+- Usaste Uber como Transporte
+- Tienes ingresos variables y altos
+- Gastaste 80.000 en Servicios
+- Usaste Uber como Transporte
+- Ingresaste 120.000
+- Gastaste 25.000 en Alimentación
+- Tienes gastos en Alimentación frecuentes
+- Gastaste mucho en Servicios
+- Usaste Uber como Transporte
+- Tienes un ingreso reciente alto
+- Gastaste en Alimentación frecuentemente
+- Gastaste mucho en Servicios
+- Usaste Uber como Transporte
+- Tienes un ingreso reciente alto
+- Gastaste en Alimentación frecuentemente
+- Gastaste mucho en Servicios
+- Usaste Uber como Transporte
+- Tienes un ingreso reciente alto
+- Gastaste en Alimentación frecuentemente
