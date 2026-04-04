@@ -1,54 +1,46 @@
 {
-  "inicio_periodo": "2026-03-27",
+  "inicio_periodo": "2026-04-04",
   "ingresos_totales": 120000,
-  "gastos_totales": 119000,
-  "balance": 1000,
+  "gastos_totales": 117000,
+  "balance": 3000,
   "gastos_por_categoria": {
-    "Alimentación": 27000,
+    "Alimentación": 25000,
     "Transporte": 12000,
     "Servicios": 80000
   },
-  "transacciones_registradas": 5,
+  "transacciones_registradas": 4,
   "historial_reciente": [
     {
-      "id": "1774643307.362702",
-      "fecha": "2026-03-27",
+      "id": "1775322151.890365",
+      "fecha": "2026-04-04",
       "tipo": "GASTO",
       "categoria": "Servicios",
       "monto": 80000,
       "descripcion": "💡 Internet (Test)"
     },
     {
-      "id": "1774643307.354944",
-      "fecha": "2026-03-27",
+      "id": "1775322151.887164",
+      "fecha": "2026-04-04",
       "tipo": "GASTO",
       "categoria": "Transporte",
       "monto": 12000,
       "descripcion": "🚕 Uber de prueba"
     },
     {
-      "id": "1774643307.343803",
-      "fecha": "2026-03-27",
+      "id": "1775322151.882588",
+      "fecha": "2026-04-04",
       "tipo": "INGRESO",
       "categoria": "Otros",
       "monto": 120000,
       "descripcion": "💵 Venta de prueba"
     },
     {
-      "id": "1774643307.341149",
-      "fecha": "2026-03-27",
+      "id": "1775322151.880131",
+      "fecha": "2026-04-04",
       "tipo": "GASTO",
       "categoria": "Alimentación",
       "monto": 25000,
       "descripcion": "🍔 Cena rápida de prueba"
-    },
-    {
-      "id": "1774643299.104818",
-      "fecha": "2026-03-27",
-      "tipo": "GASTO",
-      "categoria": "Alimentación",
-      "monto": 2000,
-      "descripcion": "buñuelos"
     }
   ],
   "presupuestos": {
