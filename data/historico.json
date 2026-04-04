@@ -1,0 +1,199 @@
+[
+    {
+        "inicio_periodo": "2026-03-24",
+        "ingresos_totales": 14435000,
+        "gastos_totales": 1517500,
+        "balance": 12917500,
+        "transacciones_registradas": 51,
+        "gastos_por_categoria": {
+            "Alimentaci\u00f3n": 659500,
+            "Gimnasio / Deporte": 90000,
+            "Otros": 200000,
+            "Transporte": 248000,
+            "Servicios": 320000
+        },
+        "historial_reciente": [
+            {
+                "id": "rec_31",
+                "tipo": "INGRESO",
+                "categoria": "Otros",
+                "monto": 120000,
+                "descripcion": "\ud83d\udcb5 Venta de prueba",
+                "fecha": "2026-03-24",
+                "source": "TEST_DEBUG"
+            },
+            {
+                "id": "rec_32",
+                "tipo": "GASTO",
+                "categoria": "Transporte",
+                "monto": 12000,
+                "descripcion": "\ud83d\ude95 Uber de prueba",
+                "fecha": "2026-03-24",
+                "source": "TEST_DEBUG"
+            },
+            {
+                "id": "rec_33",
+                "tipo": "GASTO",
+                "categoria": "Servicios",
+                "monto": 80000,
+                "descripcion": "\ud83d\udca1 Internet",
+                "fecha": "2026-03-24",
+                "source": "Test"
+            },
+            {
+                "id": "rec_34",
+                "tipo": "GASTO",
+                "categoria": "Alimentaci\u00f3n",
+                "monto": 60000,
+                "descripcion": "gasto alimentaci\u00f3n",
+                "fecha": "2026-03-24",
+                "source": "texto"
+            },
+            {
+                "id": "rec_35",
+                "tipo": "GASTO",
+                "categoria": "Alimentaci\u00f3n",
+                "monto": 25000,
+                "descripcion": "\ud83c\udf54 Cena r\u00e1pida de prueba",
+                "fecha": "2026-03-24",
+                "source": "TEST_DEBUG"
+            },
+            {
+                "id": "rec_36",
+                "tipo": "INGRESO",
+                "categoria": "Otros",
+                "monto": 120000,
+                "descripcion": "\ud83d\udcb5 Venta de prueba",
+                "fecha": "2026-03-24",
+                "source": "TEST_DEBUG"
+            },
+            {
+                "id": "rec_37",
+                "tipo": "GASTO",
+                "categoria": "Transporte",
+                "monto": 12000,
+                "descripcion": "\ud83d\ude95 Uber de prueba",
+                "fecha": "2026-03-24",
+                "source": "TEST_DEBUG"
+            },
+            {
+                "id": "rec_38",
+                "tipo": "GASTO",
+                "categoria": "Servicios",
+                "monto": 80000,
+                "descripcion": "\ud83d\udca1 Internet",
+                "fecha": "2026-03-24",
+                "source": "Test"
+            },
+            {
+                "id": "rec_39",
+                "tipo": "GASTO",
+                "categoria": "Alimentaci\u00f3n",
+                "monto": 500,
+                "descripcion": "comida perico",
+                "fecha": "2026-03-24",
+                "source": "texto"
+            },
+            {
+                "id": "rec_40",
+                "tipo": "INGRESO",
+                "categoria": "Otros",
+                "monto": 600000,
+                "descripcion": "venta estupefacientes",
+                "fecha": "2026-03-24",
+                "source": "texto"
+            },
+            {
+                "id": "rec_41",
+                "tipo": "GASTO",
+                "categoria": "Alimentaci\u00f3n",
+                "monto": 25000,
+                "descripcion": "\ud83c\udf54 Cena r\u00e1pida de prueba",
+                "fecha": "2026-03-24",
+                "source": "TEST_DEBUG"
+            },
+            {
+                "id": "rec_42",
+                "tipo": "INGRESO",
+                "categoria": "Otros",
+                "monto": 120000,
+                "descripcion": "\ud83d\udcb5 Venta de prueba",
+                "fecha": "2026-03-24",
+                "source": "TEST_DEBUG"
+            },
+            {
+                "id": "rec_43",
+                "tipo": "GASTO",
+                "categoria": "Transporte",
+                "monto": 12000,
+                "descripcion": "\ud83d\ude95 Uber de prueba",
+                "fecha": "2026-03-24",
+                "source": "TEST_DEBUG"
+            },
+            {
+                "id": "rec_44",
+                "tipo": "GASTO",
+                "categoria": "Servicios",
+                "monto": 80000,
+                "descripcion": "\ud83d\udca1 Internet",
+                "fecha": "2026-03-24",
+                "source": "Test"
+            },
+            {
+                "id": "rec_45",
+                "tipo": "INGRESO",
+                "categoria": "Otros",
+                "monto": 5000,
+                "descripcion": "User 2 Ingreso",
+                "fecha": "2026-03-25",
+                "source": "TEST"
+            },
+            {
+                "id": "rec_46",
+                "tipo": "GASTO",
+                "categoria": "Alimentaci\u00f3n",
+                "monto": 20000,
+                "descripcion": "compra hamburguesa",
+                "fecha": "2026-05-22",
+                "source": "texto"
+            },
+            {
+                "id": "rec_47",
+                "tipo": "GASTO",
+                "categoria": "Alimentaci\u00f3n",
+                "monto": 20000,
+                "descripcion": "compra hamburguesa",
+                "fecha": "2026-05-22",
+                "source": "texto"
+            },
+            {
+                "id": "rec_48",
+                "tipo": "GASTO",
+                "categoria": "Alimentaci\u00f3n",
+                "monto": 20000,
+                "descripcion": "compra hamburguesa",
+                "fecha": "2026-05-22",
+                "source": "texto"
+            },
+            {
+                "id": "rec_49",
+                "tipo": "GASTO",
+                "categoria": "Alimentaci\u00f3n",
+                "monto": 20000,
+                "descripcion": "compra hamburguesa",
+                "fecha": "2026-05-22",
+                "source": "texto"
+            },
+            {
+                "id": "rec_50",
+                "tipo": "GASTO",
+                "categoria": "Alimentaci\u00f3n",
+                "monto": 20000,
+                "descripcion": "compra hamburguesa",
+                "fecha": "2026-05-22",
+                "source": "texto"
+            }
+        ],
+        "presupuestos": {}
+    }
+]
