@@ -209,8 +209,13 @@ credentials.json
 token.json
 
 
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
 # Datos y archivos generados por el bot (pueden contener información financiera privada)
 data/*.json
 memory/
 reportes/
 HEARTBEAT.md
+MEMORY.md

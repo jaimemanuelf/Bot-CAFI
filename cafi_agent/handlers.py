@@ -16,13 +16,12 @@ def authorized_only(func):
         allowed_id = os.getenv("ALLOWED_USER_ID")
         user_id = update.effective_user.id
         
-        if allowed_id and str(user_id) == str(allowed_id):
-            return await func(update, context, *args, **kwargs)
-        else:
+        if not allowed_id or str(user_id) != str(allowed_id):
             print(f"Intento de acceso denegado del ID: {user_id}")
             if update.message:
                 await update.message.reply_text("⛔ Lo siento, este bot es privado.")
             return
+        return await func(update, context, *args, **kwargs)
     return wrapper
 
 @authorized_only
