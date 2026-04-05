@@ -37,6 +37,6 @@ Luego edita `.env` con tus credenciales reales:
 | `TELEGRAM_TOKEN` | ✅ | Token del bot entregado por [@BotFather](https://t.me/BotFather) |
 | `ALLOWED_USER_ID` | ✅ | Tu ID numérico de Telegram (obtenlo con [@userinfobot](https://t.me/userinfobot)). Solo este usuario podrá usar el bot. |
 | `GROQ_API_KEY` | ✅ | API Key de [Groq Console](https://console.groq.com) para el LLM |
-| `OWNER_NAME` | ⬜ | Tu nombre, usado en los análisis del LLM (por defecto: "el usuario") |
+| `OWNER_NAME` |  | Tu nombre, usado en los análisis del LLM (por defecto: "el usuario") |
 
 > **Google Drive:** La sincronización con Drive no requiere variables de entorno. Solo descarga tu archivo OAuth 2.0 desde Google Cloud Console, renómbralo `credentials.json` y colócalo en la raíz del proyecto. El archivo `token.json` se genera automáticamente la primera vez. Ambos archivos están incluidos en `.gitignore`.
