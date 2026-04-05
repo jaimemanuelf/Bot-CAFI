@@ -17,7 +17,8 @@
 
 *   **Lenguaje:** Python 3.0
 *   **Interfaz:** Telegram Bot API (`python-telegram-bot`)
-*   **Inteligencia Artificial:** Groq Cloud (LLM para parsing y visión)
+*   **Inteligencia Artificial:** Groq Cloud (LLM para parsing y visión)  "llama-3.3-70b-versatile" , "llama-3.2-90b-vision-preview"
+
 *   **Base de Datos:** Google Sheets API
 *   **Gráficos:** Matplotlib
 
