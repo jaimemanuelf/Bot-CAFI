@@ -1,3 +1,5 @@
+#Detectar que modelos de vision tienes disponible en tu cuenta groq
+
 import os
 import json
 from groq import Groq
