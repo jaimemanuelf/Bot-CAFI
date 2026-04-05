@@ -1,3 +1,4 @@
+#check de modelos disponibles en gemini, igual a test_groq_vision.py
 import os
 import google.generativeai as genai
 from dotenv import load_dotenv
