@@ -15,7 +15,7 @@
 
 ## 🛠️ Stack Tecnológico
 
-*   **Lenguaje:** Python 3.x
+*   **Lenguaje:** Python 3.0
 *   **Interfaz:** Telegram Bot API (`python-telegram-bot`)
 *   **Inteligencia Artificial:** Groq Cloud (LLM para parsing y visión)
 *   **Base de Datos:** Google Sheets API
