@@ -1,6 +1,6 @@
 
 
-# 🤖 CAFI - Personal Finance Agent
+#  CAFI - Personal Finance Agent
 
 **CAFI** (*C*ontrol de *A*ctivos *FI*nancieros) es un asistente inteligente diseñado para simplificar la gestión de finanzas personales. Olvídate de llenar formularios tediosos; interactúa con tus finanzas de la misma forma que hablas con un amigo en Telegram.
 
